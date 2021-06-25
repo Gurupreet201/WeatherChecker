@@ -83,3 +83,12 @@ body {
   font-size: 12pt;
   font-weight: 600;
 }
+
+@media only screen and (max-width: 600px) {
+  .app-main {
+    width: 45vh;
+  }
+  .app-main > * {
+    margin: 10px;
+  }
+}
