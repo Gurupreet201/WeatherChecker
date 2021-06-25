@@ -5,7 +5,7 @@
 }
 
 body {
-  background-image: url(/sunny.jpg);
+  background-image: url(sunny.jpg);
   height: 100vh;
   overflow: hidden;
   background-repeat: no-repeat;
